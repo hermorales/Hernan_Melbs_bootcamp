@@ -2,7 +2,7 @@ def add_one(n):
     result = n + 1
     return result
     
-#print add_one(10)
+print add_one(10)
 
 # recursive solution
 def factorial(n):
