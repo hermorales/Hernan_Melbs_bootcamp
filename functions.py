@@ -34,7 +34,7 @@ def factorial(n):
 
 #Fibonacci functions
 def fibonacci(n):
-    a, b = 0, 1
+    a, b = 1, 2
     while n > 0:
         a, b = b, a+b
         n -= 1
